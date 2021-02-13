@@ -1,0 +1,2 @@
+# Grip-Task-1-Prediction-using-Supervised-ML
+This is the GRIP Task-1: Prediction using Supervised Machine Learning under the Data Science and Business Analytics internship program of The Sparks Foundation., It is a simple linear regression task where the percentage score of an student is predicted based on the no. of study hours per day. # GripTask-1, #TheSparksFoundation, #PredictionUsingSupervisedMachineLearning
